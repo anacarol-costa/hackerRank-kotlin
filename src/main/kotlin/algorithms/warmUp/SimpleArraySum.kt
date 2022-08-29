@@ -1,4 +1,4 @@
-package algorithms.warmup
+package algorithms.warmUp
 
 import kotlin.collections.*
 import kotlin.io.*

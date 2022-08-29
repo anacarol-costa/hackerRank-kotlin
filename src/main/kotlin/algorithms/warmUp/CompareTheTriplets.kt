@@ -1,4 +1,4 @@
-package algorithms.warmup
+package algorithms.warmUp
 
 import kotlin.collections.*
 import kotlin.io.*
@@ -21,7 +21,7 @@ fun compareTriplets(a: Array<Int>, b: Array<Int>): Array<Int> {
 
     for (i in 0 until a.size) {
         val arNumAlice = a[i]
-        val arNumBob =b[i]
+        val arNumBob = b[i]
 
         if (arNumAlice > arNumBob) {
             alicePontos++
